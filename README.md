@@ -8,7 +8,7 @@ The dataset used for training and testing the model is [dataset](dataset). This 
 
 ## Requirements
 To run the code in this repository, you need the following libraries installed:
-- Python (version X.X.X)
+- Python
 - NumPy
 - Pandas
 - Scikit-learn
@@ -56,6 +56,6 @@ Future work may include:
 ## Contributors
 - [Shivanga Phukan](https://github.com/Shivanga03/)
 - [Saswankar Bura Gohain](https://github.com/Saswankar1/)
-- [Contributor 2](https://github.com/contributor2_username)
+- [Raj Ballav Dutta](https://github.com/r1sh1raj01)
 
 Feel free to contribute to this project by forking the repository and submitting pull requests! If you have any questions or suggestions, please open an issue.
