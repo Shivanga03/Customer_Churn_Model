@@ -1,4 +1,4 @@
-**Customer Churn Prediction Model**
+# Customer Churn Prediction Model**
 
 ## Introduction
 This repository contains code and resources for building a customer churn prediction model. Customer churn, also known as customer attrition, refers to the phenomenon of customers ceasing to do business with a company. Predicting customer churn is crucial for businesses to retain customers and maximize revenue. This project aims to develop a machine learning model that can accurately predict customer churn based on various features.
