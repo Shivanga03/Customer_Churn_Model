@@ -46,6 +46,11 @@ To run the code in this repository, you need the following libraries installed:
 ## Model Evaluation
 The performance of the model is evaluated using metrics such as accuracy, precision, recall, and F1-score. Additionally, visualizations such as confusion matrix and ROC curve are used to assess the model's performance.
 
+REPORT: 
+```
+https://app.powerbi.com/links/_b59bU0Oze?ctid=708e54c4-15fb-44cc-9dae-be4ec0970d0c&pbi_source=linkShare
+```
+
 ## Future Work
 Future work may include:
 - Feature engineering to improve model performance.
