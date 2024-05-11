@@ -14,7 +14,7 @@ To run the code in this repository, you need the following libraries installed:
 - Scikit-learn
 - Matplotlib
 - Seaborn
-- [any other libraries used]
+
 
 ## Usage
 1. Clone this repository to your local machine:
